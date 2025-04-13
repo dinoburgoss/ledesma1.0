@@ -1,0 +1,30 @@
+.estado-local {
+    background-color: #1e1e1e;
+    padding: 1rem;
+    border: 1px solid #333;
+    border-radius: 10px;
+    margin: 1rem auto;
+    max-width: 600px;
+    color: #fff;
+    box-shadow: 0 0 10px rgba(245, 197, 24, 0.1);
+  }
+  
+  .estado-local h2 {
+    color: #f5c518;
+  }
+  
+  .estado-local h3 {
+    margin-top: 1rem;
+    color: #f5c518;
+  }
+  
+  .estado-local ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .estado-local li {
+    padding: 0.3rem 0;
+    border-bottom: 1px solid #333;
+  }
+  
