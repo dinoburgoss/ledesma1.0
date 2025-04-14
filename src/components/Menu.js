@@ -45,7 +45,7 @@ const Menu = () => {
           nombre: 'Clásica',
           descripcion: 'Carne, queso y pan casero',
           precio: 2500,
-          imagen: '/img/hamburguesa1.jpg',
+          imagen: 'https://www.shutterstock.com/image-photo/classic-hamburger-isolated-white-260nw-2466335089.jpg',
           extras: [
             { nombre: 'Extra queso', precio: 400 },
             { nombre: 'Bacon', precio: 500 },
