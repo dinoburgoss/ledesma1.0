@@ -45,7 +45,7 @@ const Menu = () => {
           nombre: 'Clásica',
           descripcion: 'Carne, queso y pan casero',
           precio: 2500,
-          imagen: 'https://www.shutterstock.com/image-photo/classic-hamburger-isolated-white-260nw-2466335089.jpg',
+          imagen: 'https://simonparrilla.com.co/wp-content/uploads/2022/06/SIMON-PARRILLA-COMIDAS-RAPIDAS-HAMBURGUESA-CLASICA.webp',
           extras: [
             { nombre: 'Extra queso', precio: 400 },
             { nombre: 'Bacon', precio: 500 },
