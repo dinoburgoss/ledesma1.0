@@ -175,7 +175,7 @@ const Menu = () => {
           nombre: 'Muzzarella',
           descripcion: 'Masa casera con muzzarella fundida',
           precio: 2800,
-          imagen: '/img/pizza1.jpg',
+          imagen: 'https://acdn-us.mitiendanube.com/stores/001/664/252/products/4e475ddf-2c43-4d47-b69c-990a92e91029-26f258f7fdb6a2b9fb16276674103675-640-0.jpeg',
           extras: [
             { nombre: 'Aceitunas extra', precio: 200 },
             { nombre: 'Orégano y ajo', precio: 100 },
