@@ -157,18 +157,13 @@ const FormularioPedido = () => {
             color: 'white'
           }}
         >
-          <p><strong>CBU:</strong> 0000003100012345678901</p>
-          <p><strong>Alias:</strong> burger.queen.mp</p>
-          <p><strong>Titular:</strong> BURGER QUEEN SRL</p>
-          <button
-            onClick={() => {
-              navigator.clipboard.writeText('0000003100012345678901');
-              alert('CBU copiado al portapapeles');
-            }}
-            className="formulario-boton formulario-boton-cbu"
-          >
-            📋 Copiar CBU
-          </button>
+    <p><strong>CBU:</strong> 0000003100012345678901</p>
+    <p><strong>Alias:</strong> burger.queen.mp</p>
+    <p><strong>Titular:</strong> BURGER QUEEN SRL</p>
+    <p style={{ marginTop: '10px', color: '#f1c40f', fontWeight: 'bold' }}>
+      ⚠️ En caso de pagar con transferencia, enviar comprobante.
+    </p>
+    <button
         </div>
       )}
 
